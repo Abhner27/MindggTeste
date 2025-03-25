@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c88532a5b0c7d149be06b03ce71cfaf, type: 3}
+  m_Name: WorkersData
+  m_EditorClassIdentifier: 
+  _timeOfAction: 10
+  _timeOfActionDecreasePercentage: 0.96
+  _upgradeCost: 2
+  _upgradeCostIncreaseFactor: 1.4
+  _lumberjackerTimeOfAction: 10
+  _lumberjackerTreeRespawnTime: 10
+  _lumberjackerTreeDecreaseTimeFactor: 0.98
+  _carrierTimeOfAction: 1
+  _carrierSpeed: 0.3
+  _carrierSpeedIncreaseFactor: 1.15
+  _carpenterTimeOfAction: 10
+  _carpenterPlanksSellValue: 10
+  _carpenterPlanksSellIncreasePercentage: 1.3
